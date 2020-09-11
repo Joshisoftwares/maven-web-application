@@ -102,13 +102,13 @@
 	    <repository>
 	      <id>utk</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.80.6.57:8081/repository/demo-release/</url>
+	      <url>http://3.80.6.57:8081/repository/wallmart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.80.6.57:8081/repository/demo-snapshot/</url>
+	      <url>http://3.80.6.57:8081/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
